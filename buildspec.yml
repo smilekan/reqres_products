@@ -6,7 +6,7 @@ env:
 
 phases:
   install:
-    runtime-versions:
+    runtime-versions: 
       java: openjdk8
       docker: 18
     commands:
